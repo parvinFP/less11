@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "lessno/1.0.0": {
+        "dependencies": {
+          "librarycalculator": "1.0.0"
+        },
+        "runtime": {
+          "lessno.dll": {}
+        }
+      },
+      "librarycalculator/1.0.0": {
+        "runtime": {
+          "librarycalculator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "lessno/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "librarycalculator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

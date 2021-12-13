@@ -1,0 +1,12 @@
+C:\Users\Parvin\Desktop\lessno\lessno\librarycalculator\bin\Debug\net6.0\librarycalculator.deps.json
+C:\Users\Parvin\Desktop\lessno\lessno\librarycalculator\bin\Debug\net6.0\librarycalculator.dll
+C:\Users\Parvin\Desktop\lessno\lessno\librarycalculator\bin\Debug\net6.0\ref\librarycalculator.dll
+C:\Users\Parvin\Desktop\lessno\lessno\librarycalculator\bin\Debug\net6.0\librarycalculator.pdb
+C:\Users\Parvin\Desktop\lessno\lessno\librarycalculator\obj\Debug\net6.0\librarycalculator.csproj.AssemblyReference.cache
+C:\Users\Parvin\Desktop\lessno\lessno\librarycalculator\obj\Debug\net6.0\librarycalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Parvin\Desktop\lessno\lessno\librarycalculator\obj\Debug\net6.0\librarycalculator.AssemblyInfoInputs.cache
+C:\Users\Parvin\Desktop\lessno\lessno\librarycalculator\obj\Debug\net6.0\librarycalculator.AssemblyInfo.cs
+C:\Users\Parvin\Desktop\lessno\lessno\librarycalculator\obj\Debug\net6.0\librarycalculator.csproj.CoreCompileInputs.cache
+C:\Users\Parvin\Desktop\lessno\lessno\librarycalculator\obj\Debug\net6.0\librarycalculator.dll
+C:\Users\Parvin\Desktop\lessno\lessno\librarycalculator\obj\Debug\net6.0\ref\librarycalculator.dll
+C:\Users\Parvin\Desktop\lessno\lessno\librarycalculator\obj\Debug\net6.0\librarycalculator.pdb
